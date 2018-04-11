@@ -5,7 +5,7 @@
 ## ⚠️ STILL TO DO
 
 * [ ] Expand things I love section
-* [ ] Expand things I'm shot at 
+* [ ] Expand things I'm shit at 
 * [ ] Edit for style and spell check.
 
 ---
@@ -18,11 +18,11 @@ You can find me on [Twitter](https://twitter.com/dannysmith), [Medium](https://m
 
 #### ⚠️ This isn't really a manual...
 
-Intruction manuals provide definate instructions on how you should use something. You pretty much have to follow them. Working together is different. It's a *n*-way thing. So this isn't really an instruction manual at all, it's just a load of information about how I *like* to work. It outlines my preferences and peculiarities in the hope that by knowing them up-front, we can find a way to do **amazing work** together.
+Instruction manuals provide definite instructions on how you should use something. You pretty much have to follow them. Working together is different. It's a *n*-way thing. So this isn't really an instruction manual at all, it's just a load of information about how I *like* to work. It outlines my preferences and peculiarities in the hope that by knowing them up-front, we can find a way to do **amazing work** together.
 
 **I will do my best to adjust my personality style to help with this.**
 
-Nothing in here is set in stone. Nothing is an isntrction, or even a recommendation. It's just a **heads-up**.
+Nothing in here is set in stone. Nothing is an instruction, or even a recommendation. It's just a **heads-up**.
 
 Thanks to Dan Barrett for [the idea](https://medium.com/@dasbarrett/a-user-manual-for-dan-d0a285874f72) (he links to a bunch more).
 
@@ -36,7 +36,7 @@ While the realities of life prevent me working my ideal hours (`13:00-16:00` & `
 
 While I'm a firm believer in [Sustainable Pace](http://www.sustainablepace.net/what-is-sustainable-pace), you'll sometimes see me working late at night. This will almost always be because I want to. On no account should abybody feel any *obligation* to follow my lead, or that doing so will earn brownie points or make them some sort of hero.
 
-While we're on the subject of **work-life balance**, I tend to mix the two together. Experience says that, for me, seperating them is detrimental to both. Thins means that you will sometimes find me doing "life" things at work, and "work" things at home. That said, if a strict seperation of the two works for you, I **totally respect that**, and expect everyone else to.
+While we're on the subject of **work-life balance**, I tend to mix the two together. Experience says that, for me, seperating them is detrimental to both. This means that you will sometimes find me doing "life" things at work, and "work" things at home. That said, if a strict seperation of the two works for you, I **totally respect that**, and expect everyone else to.
 
 
 ## My Oddities and Flaws
@@ -57,15 +57,15 @@ According to Myers-Briggs, I'm an **ENTJ**. I'd highly reccomend [reading my pro
 
 > It’s not easy to stand up to a personality as big and blustery as ENTJ's, and they too often find that others crumple under the force they apply when they really start to enjoy themselves.
 
-This describes me fairly accurateley. I *reall enjoy arguing*.
+This describes me fairly accurateley. I *really* enjoy arguing.
 
 ##### Key points on arguing
 
-* You will not hurt my feelings by arguing with me – quite the opposite!
-* I have a lot of ideas, and most of them are shit. Please be blunt and shoot them down with no regard for my feelings (it's the only way I'll have any better ones).
+* You will not hurt my feelings by arguing with me – on the contrary!
+* I have a lot of ideas, and most of them are *shit*. Please be blunt and shoot them down with no regard for my feelings (it's the only way I'll have any better ones).
 * I reverse my decisions **very** quickly when presented with a compelling counter-argument.
-* If it's feels like I'm having a dig at you, I honestly don't mean it that way.
-* I will probably talk over you. **Please talk over me**, and if that's not how you roll then then tell me bluntly to shut up – providing you feel comfortable doing so.
+* If it feels like I'm having a dig at you, I honestly don't mean it that way.
+* I will probably talk over you. Please **talk over me**, and if that's not how you roll then then tell me bluntly to shut up – providing you feel comfortable doing so.
 * I'm **acutely** aware that not everyone else is like this, and I can make people feel uncomfortable. If the above sounds like hell to you, please tell me (see *Feedback* below). I'll moderate my behaviour.
 
 Despite all this, I subscribe to the "strong opinions, loosely held" school of thought, and like to [disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit) if a dabate has run out of new logical arguments.
@@ -82,14 +82,15 @@ Despite all this, I subscribe to the "strong opinions, loosely held" school of t
 
 * Designing systems and solving systems-related problems. I find systems that involve people.
 * Building tools that make people's lives easier. Because programmers are people, this means I really enjoy building tools and abstractions to make programmers lives easier, too.
-* Clean, well-structured code that's east to read and reason about.
+* Clean, well-structured code that's easy to read and reason about.
 * Clean, well-designed business systems that are easy to use and reason about.
 
 ### Things I find hard
 
 * **Appearing to Listen**.
-* **Asking for Help**. Paeticularly when I feel like I *shouldn't need help* with a thing. I'm trying to get better at this.
-* **Being on time**. I'm much better at this than I used to be, but will ocasionally be 5 minutes late for things. When I am, be aware that I'm *very very concious* of it and will feel shit about it all day. If I'm late for something and it inconviniences you, be sure to tell me.
+* **Asking for Help**. Particularly when I feel like I *shouldn't need help* with a thing. I'm trying to get better at this.
+* **Being on time**. I'm much better at this than I used to be, but will ocasionally be 5 minutes late for things. When I am, be aware that I'm *very very conscious* of it and will feel shit about it all day. If I'm late for something and it inconviniences you, be sure to tell me.
+* **Bolding for emphasis**. I do it quite a lot, sometimes **indiscriminately**, but never *consistently*. 
 
 ## Managing my Work
 
@@ -125,7 +126,7 @@ I'm happy for anyone to share my personal email address and mobile number (insid
 
 ## Feedback
 
-I **really value feedback**, even if sometimes it donesn't seem like it. Some points to bear in mind:
+I **really value feedback**, even if sometimes it doesn't seem like it. Some points to bear in mind:
 
 * If we're mid-debate, immediate feedback will never elicit an emotional response. You can be as rude and abrupt as you like (see above).
 * If your feedback is not heat-of-the-moment, my initial response will be emotional, however you deliver it. **I will be defensive**. I'm working on this.
