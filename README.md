@@ -1,12 +1,20 @@
 # Danny: The Haynes Manual
 
+---
+
+## ⚠️ STILL TO DO
+
+* [ ] Expand things I love section
+* [ ] Expand things I'm shot at 
+* [ ] Edit for style and spell check.
+
+---
+
 Hey. I'm Danny. Here's what my Twitter bio says about me:
 
 > **Software Engineer** & **Teacher**. Passionate about technology education and helping people be happy at work. I also play blues music.
 
 You can find me on [Twitter](https://twitter.com/dannysmith), [Medium](https://medium.com/@dannysmith), [GitHub](https://github.com/dannysmith) and [Instagram](https://instagram.com/dannysmith) as `@dannysmith`, and on the web at [danny.is](https://danny.is). You can also find me on [LinkedIn](https://www.linkedin.com/in/dannyasmith), though I rarely use it.
-
-Note: Spell Check. ⚠️
 
 #### ⚠️ This isn't really a manual...
 
@@ -65,19 +73,17 @@ Despite all this, I subscribe to the "strong opinions, loosely held" school of t
 ### Things I need
 
 * **Movement**. My worst nightmare is a week of 8-hour days sat silently at my laptop. I need to move and wave my arms about, and I need to talk. This means I really like pairing. I love walking meetings, and walk about a lot when I'm thinking - I'm sorry if this is distracting.
-* **Variety**. While I can be very happy doing a single type of work (say coding) for quite a long time, the longer I do it the more I crave something different once it's done.
-* **A [oppo](https://www.urbandictionary.com/define.php?term=oppo&defid=219610)**. I work fine alone, but am happer when I've got a partner(s) in crime. I need people to bounce ideas of and to have people challenge me.
+* **Variety**. While I can be very happy doing a single type of work (say coding) for quite a long time, the longer I do it the more I crave something different once it's done. The exception to this is work that is inherantly varied, like coaching and project-management.
+* **An [oppo](https://www.urbandictionary.com/define.php?term=oppo&defid=219610)**. I work fine alone, but am happer when I've got a partner(s) in crime. I need someone to bounce ideas of and to challenge me.
 * **Transparency**. I need to have open conversations and the more I feel involved in bigger business decisions, the more engaged I'll be.
 * **Autonomy**. I really need to feel trusted, and to be given autonomy.
 
 ### Things I love
 
-* Process problems
-* People
-* Dev Tools
-* Systems thinking
-* Clean, well structured code. I'd rather spend half an hour talking with a whiteboard before writing any code.
-* Systems and Processes
+* Designing systems and solving systems-related problems. I find systems that involve people.
+* Building tools that make people's lives easier. Because programmers are people, this means I really enjoy building tools and abstractions to make programmers lives easier, too.
+* Clean, well-structured code that's east to read and reason about.
+* Clean, well-designed business systems that are easy to use and reason about.
 
 ### Things I find hard
 
@@ -123,7 +129,7 @@ I **really value feedback**, even if sometimes it donesn't seem like it. Some po
 
 * If we're mid-debate, immediate feedback will never elicit an emotional response. You can be as rude and abrupt as you like (see above).
 * If your feedback is not heat-of-the-moment, my initial response will be emotional, however you deliver it. **I will be defensive**. I'm working on this.
-* I value considered feedback over head-of-the-moment feedback. The latter is just "good conversation" to me, no matter how harsh.
+* I value considered feedback over heat-of-the-moment feedback. The latter is just "good conversation" to me, no matter how harsh.
 * I prefer you to give feedback in whatever way feels best to you: be that in-person, by email or by carrier pigeon.
 * Do not pull your punches (but be ready for me to politely punch back).
 * If I feel you lack some context that I have, I'll be **really keen** to provide that context and see if your feedback remains the same.
@@ -136,7 +142,8 @@ To be clear: I value **all** feedback, and **want to hear it ALL**. But I reserv
 
 I live in a lovely house in Islington with some friends. I buy a lot of books on business and self-improvement but read at a slower rate than I buy so if you want to borrow a book, I have quite a few.
 
-I've spent the last seven years working with some truly exceptional people to deliver Skill-at-Arms Instructor courses for the Royal Air Force Air Cadets.
-
 I used to sing a lot of blues music. You can see some [here](https://danny.is/singing) and [here](https://www.facebook.com/dannysmithmusic/videos/). If you're into blues and fancy a jam, I'm game 🎶.
 
+I've spent the last seven years working with some truly exceptional people to deliver Skill-at-Arms courses instructors in the [Royal Air Force Air Cadets](https://www.raf.mod.uk/aircadets/). I've been an instructor in the air cadets for 11 years. I'm the one in the middle:
+
+![Photo of Danny and his RAFAC mates](assets/ctt.jpeg)
